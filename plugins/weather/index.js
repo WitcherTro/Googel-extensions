@@ -54,8 +54,8 @@ const _render = (data) => {
 export default {
   name: "Počasie",
   description: "Zobrazuje informácie o počasí pomocou Open-Meteo",
-  trigger: "weather",
-  aliases: ["wttr", "forecast", "pocasie"],
+  trigger: "pocasie",
+  aliases: ["wttr", "forecast", "weather"],
   naturalLanguagePhrases: ["aké je počasie", "počasie pre", "počasie", "pocasie", "ako bude", "ako bude počasie", "ako bude pocasie"],
 
   settingsSchema: [
