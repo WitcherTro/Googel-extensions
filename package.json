@@ -1,0 +1,16 @@
+{
+    "name": "Googel extensions",
+    "description": "Plugins for googel.",
+    "repo-image": "https://cdn.discordapp.com/avatars/348085387123752962/84b20cd4cd339046c9c9dbc375873603.webp?size=240",
+    "author": "WitcherTro",
+    "plugins": [
+      {
+        "path": "plugins/weather",
+        "name": "Pocasie",
+        "description": "Shows weather information using Open-Meteo. Slovak language.",
+        "version": "1.2.0",
+        "type": "command"
+      }
+    ]
+  }
+  
