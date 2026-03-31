@@ -56,7 +56,7 @@ export default {
   description: "Zobrazuje informácie o počasí pomocou Open-Meteo",
   trigger: "weather",
   aliases: ["wttr", "forecast", "pocasie"],
-  naturalLanguagePhrases: ["aké je počasie", "počasie pre", "počasie"],
+  naturalLanguagePhrases: ["aké je počasie", "počasie pre", "počasie", "pocasie", "ako bude", "ako bude počasie", "ako bude pocasie"],
 
   settingsSchema: [
     {
